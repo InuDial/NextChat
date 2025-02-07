@@ -542,6 +542,8 @@ const baiduModels = [
   "ernie-speed-8k",
   "ernie-lite-8k",
   "ernie-tiny-8k",
+  "deepseek-v3",
+  "deepseek-r1",
 ];
 
 const bytedanceModels = [
